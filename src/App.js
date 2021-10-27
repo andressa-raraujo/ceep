@@ -3,7 +3,7 @@ import FormularioCadastro from "./components/FormularioCadastro/formularioCadast
 
 import ListaDeNotas from "./components/ListaDeNotas/listaDeNotas";
 
-import "./App.css";
+import "./assets/App.css";
 
 class App extends Component {
   render() {
